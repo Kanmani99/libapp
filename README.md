@@ -4,6 +4,8 @@ Library basic webapp using nodejs,sequelize and html
 public/home.html ->upload books
 public/booksall.html ->view uploaded books
 
+It can be viewed in browser using port 8000 (localhost:8000/home.html)
+
 While uploading books the Database insertion is successfully done but an error is post message is displayed due to soe problem in redirection. There is no problem in insertion, which is refelcted in the database.
 
 I have not completed the updatebook.html yet.
