@@ -11,5 +11,5 @@ While uploading books the Database insertion is successfully done but an error i
 I have not completed the updatebook.html yet.
 But the backend of update and search module is done.
 
-controller/book.js has all the priary functions performed, called in the index.js of route folder.
+controller/book.js has all the primary functions performed, called in the index.js of route folder.
 
